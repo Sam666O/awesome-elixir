@@ -1,7 +1,7 @@
 # Awesome Elixir [![CI Badge](https://github.com/h4cc/awesome-elixir/actions/workflows/ci.yml/badge.svg)](https://github.com/h4cc/awesome-elixir) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A curated list of amazingly awesome Elixir libraries, resources, and shiny things inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 
-If you think a package should be added, please add a :+1: (`:+1:`) at the according issue or create a new one.
+If you think any thing about package should be added, please add a :+1: (`:+1:`) at the according issue or create a new one.
 
 There are [other sites with curated lists of elixir packages](#other-awesome-lists) which you can have a look at.
 
